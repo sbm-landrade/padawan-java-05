@@ -1,6 +1,5 @@
 package br.com.alura;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.LinkedList;
